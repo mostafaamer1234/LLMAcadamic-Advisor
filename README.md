@@ -1,2 +1,0 @@
-# LLMAcadamic-Advisor
- 
